@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm working as a Software Development Engineer in Test.
+Currently I'm learning HTML, CSS, JavaScript and Frontend Frameworks.
 
 <!--
 **onuryasavul/onuryasavul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
