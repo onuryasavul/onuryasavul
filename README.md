@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p>I'm working as a Software Development Engineer in Test.<\p>
-Currently I'm improving my skills in C#, OOP, HTML, CSS, JavaScript and Frontend Frameworks.
+<p>I'm working as a Software Development Engineer in Test. </br>
+Currently I'm improving my skills in C#, OOP, HTML, CSS, JavaScript and Frontend Frameworks.</p>
 
 <!--
 **onuryasavul/onuryasavul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
