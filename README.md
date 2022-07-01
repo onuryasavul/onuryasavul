@@ -1,12 +1,13 @@
 ### Hi there 👋
 <p>I'm working as a Software Development Engineer in Test. </br>
-Currently I'm improving my skills in C#, OOP, HTML, CSS, JavaScript and Frontend Frameworks.</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onuryasavul" height="30" />
+  Currently I'm improving my skills in C#, OOP, HTML, CSS, JavaScript and Frontend Frameworks.
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="onuryasavul" />           
+<p class="linkedin" align="center">
+  <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" />
+</p>
+<p class="languages" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="languages" />           
 </p>
 
 <!--
