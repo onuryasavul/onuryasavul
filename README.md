@@ -5,8 +5,8 @@ Currently I'm improving my skills in C#, OOP, HTML, CSS, JavaScript and Frontend
   <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="onuryasavul" height="30" />
 </p>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="msankarali" />           
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="onuryasavul" />           
 </p>
 
 <!--
