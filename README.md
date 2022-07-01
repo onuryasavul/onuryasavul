@@ -2,7 +2,7 @@
 <p>I'm working as a Software Development Engineer in Test. </br>
   Currently I'm improving my skills in C#, OOP, HTML, CSS, JavaScript and Frontend Frameworks.
 </p>
-<p class="linkedin" align="center">
+<p class="linkedin">
   <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" />
 </p>
