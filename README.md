@@ -1,6 +1,10 @@
 ### Hi there 👋
 <p>I'm working as a Software Development Engineer in Test. </br>
 Currently I'm improving my skills in C#, OOP, HTML, CSS, JavaScript and Frontend Frameworks.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="msankarali" height="30" width="40" />
+</p>
 
 <!--
 **onuryasavul/onuryasavul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
