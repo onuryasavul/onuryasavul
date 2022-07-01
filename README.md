@@ -3,7 +3,7 @@
 Currently I'm improving my skills in C#, OOP, HTML, CSS, JavaScript and Frontend Frameworks.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
-    <img align="center" src="https://www.pngegg.com/en/png-wgykx" alt="onuryasavul" height="30" />
+    <img align="center" src="https://e7.pngegg.com/pngimages/774/981/png-clipart-linkedin-advertising-social-media-marketing-company-hairstyle-logo-company-text.png" alt="onuryasavul" height="30" />
 </p>
 
 <!--
