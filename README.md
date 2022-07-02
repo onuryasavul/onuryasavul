@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/onuryasavul/">
   <img align="left" alt="Onurs's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/onuryasavul">
+<a href="https://twitter.com/onur_yasavul">
   <img align="left" alt="Onur Yasavul | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
