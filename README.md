@@ -15,7 +15,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 
 
-<p class="languages" align="center">
+<p class="languages" align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="languages" />           
 </p>
 
