@@ -1,6 +1,5 @@
 ### Hi there 👋
-<p>Currently working as a Software Development Engineer in Test.<p/>
-<p>I'm improving my skills as a web developer at the moment.<p/>
+<p>I am working as a Software Development Engineer in Test, but also improving my skills as a web developer.<p/>
 <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="linkedin" height="40px" />
 </a>
