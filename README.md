@@ -4,7 +4,7 @@
 </p>
 <p class="linkedin">
   <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" />
+    <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="linkedin" height="30" />
 </p>
 <p class="languages" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="languages" />           
