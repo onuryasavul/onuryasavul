@@ -1,9 +1,8 @@
 ### Hi there 👋
-<pre>Currently working as a Software Development Engineer in Test.
-I'm improving my skills as a web developer at the moment.
-
+<p>Currently working as a Software Development Engineer in Test.<p/>
+<p>I'm improving my skills as a web developer at the moment.<p/>
 <a href="https://www.linkedin.com/in/onuryasavul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="linkedin" height="30" />
-</pre>
+</a>
 
 <div>
   <h3>I'm learning:<h3/>
