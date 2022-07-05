@@ -28,4 +28,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="languages" />           
   </p>
 </div>
-
