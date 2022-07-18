@@ -26,6 +26,6 @@
 <br/>
 <div>
   <p class="languages" align="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="languages" />           
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="languages" />
   </p>
 </div>
