@@ -14,7 +14,7 @@
   <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;"/>
   <img align="left" alt="selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="padding-right:10px;"/>
   </br>
-
+  </br>
   <h3>I'm learning:<h3/>
   
   <img align="left" alt="android" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="padding-right:10px;"/>
