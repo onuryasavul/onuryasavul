@@ -13,14 +13,15 @@
   <h3>I have experience with:<h3/>
   <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;"/>
   <img align="left" alt="selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="padding-right:10px;"/>
+  <img align="left" alt="IP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/IronPython_3_logo.svg/755px-IronPython_3_logo.svg.png" style="padding-right:10px;"/>
+  <img align="left" alt="csharp" width="40px" src="https://iconape.com/wp-content/png_logo_vector/c.png" style="padding-right:10px;"/>
   </br>
   </br>
   <h3>I'm learning:<h3/>
   <!--
   <img align="left" alt="android" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="padding-right:10px;"/>
   <img align="left" alt="kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="padding-right:10px;"/>
-  -->  
-  <img align="left" alt="csharp" width="40px" src="https://iconape.com/wp-content/png_logo_vector/c.png" style="padding-right:10px;"/>
+  -->
   <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
   <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
   <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
