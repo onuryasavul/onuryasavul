@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I am working as a Software Development Specialist in Test.<p/>
+<p>I am working as a Software Quality Engineer.<p/>
 <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="linkedin" height="40px" />
 </a>
