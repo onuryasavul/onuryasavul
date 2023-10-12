@@ -1,14 +1,10 @@
 ### Hi there 👋
 <p>I am working as a Software Quality Engineer.<p/>
 <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="linkedin" height="40px" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="linkedin" height="40px" />
 </a>
 <a href="https://www.instagram.com/onuryasavul/">
   <img align="left" alt="Onurs's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/onur_yasavul">
-  <img align="left" alt="Onur Yasavul | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <div>
   <h3>I have experience with:<h3/>
   <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;"/>
@@ -18,7 +14,7 @@
   <img align="left" alt="cv2" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;"/>
   <img align="left" alt="appium" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" style="padding-right:10px;"/>
   <img align="left" alt="pytest" width="40px" src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" style="padding-right:10px;"/>
-  <img align="left" alt="qlik" width="40px" src="https://pbs.twimg.com/profile_images/1502003522786766858/oJW1fygZ_400x400.png" style="padding-right:10px;"/>
+  <img align="left" alt="qlik" width="40px" src="https://seeklogo.com/images/Q/qlik-sense-logo-6D6FE02D3A-seeklogo.com.png" style="padding-right:10px;"/>
 
   </br>
   </br>
