@@ -3,8 +3,6 @@
 <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="linkedin" height="40px" />
 </a>
-<a href="https://www.instagram.com/onuryasavul/">
-  <img align="left" alt="Onurs's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <div>
   <h3>I have experience with:<h3/>
   <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;"/>
@@ -19,30 +17,5 @@
   <p class="languages" align="top">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="languages" />
   </p>
-
-  
-<!--
-  </br>
-  </br>
-  <h3>I'm learning:<h3/>
-
-  <img align="left" alt="android" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="padding-right:10px;"/>
-  <img align="left" alt="kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="padding-right:10px;"/>
-
-  <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-  <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
-  <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
-  <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-  <img align="left" alt="Vue" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="padding-right:10px;"/>
-  <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
-  <img align="left" alt="Angular" width="40px" src="https://angular.io/assets/images/logos/angular/angular.svg" style="padding-right:10px;"/>
-  <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
-</div>
-<br/>
-<br/>
-<br/>
-<div>
-</div>
--!>
-
+  </div>
 
