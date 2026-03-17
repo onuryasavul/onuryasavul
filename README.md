@@ -8,14 +8,10 @@
 <div>
   <h3>I have experience with:<h3/>
   <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;"/>
+    <img align="left" alt="karate" width="80px" src="https://www.karatelabs.io/assets/images/logo.svg" style="padding-right:10px;"/>
   <img align="left" alt="selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="padding-right:10px;"/>
-  <img align="left" alt="IP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/IronPython_3_logo.svg/755px-IronPython_3_logo.svg.png" style="padding-right:10px;"/>
-  <img align="left" alt="csharp" width="40px" src="https://iconape.com/wp-content/png_logo_vector/c.png" style="padding-right:10px;"/>
-  <img align="left" alt="cv2" width="40px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;"/>
   <img align="left" alt="appium" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" style="padding-right:10px;"/>
-  <img align="left" alt="pytest" width="40px" src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" style="padding-right:10px;"/>
-  <img align="left" alt="qlik" width="40px" src="https://seeklogo.com/images/Q/qlik-sense-logo-6D6FE02D3A-seeklogo.com.png" style="padding-right:10px;"/>
-
+  <img align="left" alt="pytest" width="50px" src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" style="padding-right:10px;"/>
   </br>
   </br>
   </br>
