@@ -29,8 +29,10 @@ Passionate about building test automation frameworks that empower teams to deliv
   </br>
   </br>
   </br>
+  <!--
   <p class="languages" align="top">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryasavul&layout=compact" alt="languages" />
   </p>
+   //-->
   </div>
 
