@@ -1,7 +1,22 @@
-### Hi there 👋
-<p>I am working as a Software Quality Engineer.<p/>
+### 💻 Test Automation Engineer/Developer-in-Test
+<p>
+Passionate about building test automation frameworks that empower teams to deliver quality software faster. With +4 years of experience across automotive (PLM), IoT, and consumer electronics, I specialize in:
+
+🤖 Test Automation
+
+   • Web UI, API, Rich Client
+
+   • CI/CD integration
+
+👨🏻‍💻 Developer-in-Test Mindset
+
+   • Python, CustomTkinter
+
+   • Building internal tools to improve business processes
+
+✅ ISTQB CTFL certified<p/>
 <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="linkedin" height="40px" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="linkedin" height="30px" />
 </a>
 <div>
   <h3>I have experience with:<h3/>
