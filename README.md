@@ -16,7 +16,7 @@ Passionate about building test automation frameworks that empower teams to deliv
 
 ✅ ISTQB CTFL certified <p/>
 <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="linkedin" height="30px" />
+  <img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s256" alt="linkedin" height="50px" />
 </a>
 <div>
   <h3>I have experience with:<h3/>
