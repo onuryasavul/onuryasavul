@@ -1,4 +1,4 @@
-### 💻 Test Automation Engineer/Developer-in-Test
+### 💻 Test Automation Engineer/Developer-in-Test <a href="https://app.diplomasafe.com/en-US/diploma/d82193e5b4d1b08cf4ec7f389169cb5288c7d2b1e/istqb-foundation-level-ctfl"> 📜 ISTQB CTFL certified </a>
 <p>
 Passionate about building test automation frameworks that empower teams to deliver quality software faster. With +4 years of experience across automotive (PLM), IoT, and consumer electronics, I specialize in:
 
@@ -14,7 +14,9 @@ Passionate about building test automation frameworks that empower teams to deliv
 
    • Building internal tools to improve business processes
 
-✅ ISTQB CTFL certified <p/>
+   <p/>
+
+<br>
 <a href="https://www.linkedin.com/in/onuryasavul/" target="blank">
   <img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s256" alt="linkedin" height="50px" />
 </a>
