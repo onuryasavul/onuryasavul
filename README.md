@@ -1,6 +1,6 @@
 ### 💻 Test Automation Engineer/Developer-in-Test <a href="https://app.diplomasafe.com/en-US/diploma/d82193e5b4d1b08cf4ec7f389169cb5288c7d2b1e/istqb-foundation-level-ctfl"> 📜 ISTQB CTFL certified </a>
 <p>
-Passionate about building test automation frameworks that empower teams to deliver quality software faster. With +4 years of experience across automotive (PLM), IoT, and consumer electronics, I specialize in:
+Passionate about building test automation frameworks that empower teams to deliver quality software faster. With +5 years of experience across automotive (PLM), IoT, and consumer electronics, I specialize in:
 
 🤖 Test Automation
 
