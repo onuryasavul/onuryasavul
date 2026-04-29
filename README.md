@@ -23,7 +23,7 @@ Passionate about building test automation frameworks that empower teams to deliv
 <div>
   <h3>I have experience with:<h3/>
   <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;"/>
-  <img align="left" alt="karate" width="80px" src="https://www.karatelabs.io/assets/images/logo.svg" style="padding-right:10px;"/>
+  <img align="left" alt="karate" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsbM1Uue7KOCdmnc89A-0PyROuo8G_R4n1VQ&s" style="padding-right:10px;"/>
   <img align="left" alt="selenium" width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="padding-right:10px;"/>
   <img align="left" alt="appium" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" style="padding-right:10px;"/>
   <img align="left" alt="pytest" width="50px" src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" style="padding-right:10px;"/>
@@ -33,6 +33,7 @@ Passionate about building test automation frameworks that empower teams to deliv
   <h3>I am learning:<h3/>
   <img align="left" alt="playwright" width="140px" src="https://media.licdn.com/dms/image/v2/D5612AQFkUoKfSVVgYQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713935415584?e=2147483647&v=beta&t=wTUYZrnxhDx4LEhQ433gCc2Oij9-EyzGzFweGK0OptQ" style="padding-right:10px;"/>
   <img align="left" alt="gatling" width="120px" src="https://docs.gatling.io/images/logo-gatling-noir.svg" style="padding-right:10px;"/>
+<img align="left" alt="restassured" width="30px" src="https://avatars.githubusercontent.com/u/19369327?v=4" style="padding-right:10px;"/>
   </br>
   </br>
   </br>
